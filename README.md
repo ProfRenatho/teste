@@ -2,4 +2,4 @@
 
 equipe: só eu
 
-e mais eu
+e mais eu.
